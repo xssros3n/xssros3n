@@ -2,7 +2,6 @@
 <h1 align="center">Hi , I'm Ros3n</h1>
 <h3 align="center">🔐 Developer | 🛡️ Cybersecurity Enthusiast</h3>
 
-<img align="right" alt="Hacking" width="150" src="https://www.kali.org/blog/kali-linux-2020-4-release/images/boot-kali.gif">
 <img align="right" alt="Hacking" width="200" src="https://giffiles.alphacoders.com/120/120224.gif">
 <img align="right" alt="Hacking" width="175" src="https://media.tenor.com/nf985lW6iawAAAAC/anonymous-hacker.gif">
 - I'm Currently Learning **Cyber Sequerity and Development**
